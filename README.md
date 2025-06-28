@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me 👋
+
+🔭 I am an **undergraduate student** at Xi'an Jiaotong University, major in Automation. I will join **CLASS Lab (Control and Learning for Autonomous SystemS Lab)**, HITSZ this summer for my Master's Degree.
+
+🌱 My research interests focus on humanoid locomotion / navigation / loco-manipulation, and lately I've been getting into Embodied AI.
+
+📫 For any communication, please feel free to reach me at [hizhuoran@gmail.com](mailto:hizhuoran@gmail.com).
 
 <!--
 **LiZhuoran2003/LiZhuoran2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
